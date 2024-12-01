@@ -2,7 +2,13 @@
   "manifest_version": 3,
   "name": "Page Translator",
   "version": "1.0",
-  "description": "Translates text using Chrome Translation API",
+  "description": "Translates text using Chrome Translation API , AI-Powered Translation Extension by Developia",
+  "icons": {
+  "16": "icons/icon16.png",
+  "32": "icons/icon32.png",
+  "48": "icons/icon48.png",
+  "128": "icons/icon128.png"
+},
   "permissions": ["activeTab", "storage", "declarativeNetRequest"],
   "trial_tokens": ["AoCPxNm7I5tIsrTSO/W1TmzFmf62yTWJEhPSgKgRZc8+fFpgc6CwZvDTIHJlP61hGoA3wOXQtdvKUO6GitQrDwMAAABveyJvcmlnaW4iOiJjaHJvbWUtZXh0ZW5zaW9uOi8vZWNpZ2JkaWlvYWtwb2NtcGFjbmtqaGxrYmRhb2JwaGkiLCJmZWF0dXJlIjoiVHJhbnNsYXRpb25BUEkiLCJleHBpcnkiOjE3NTMxNDI0MDB9"],
   "action": {

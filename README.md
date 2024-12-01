@@ -30,8 +30,14 @@ OpiaTranslate is a Chrome extension developed for the Chrome AI DevJam 2024 that
 ### Demo
 [Link to Demo Video]
 
-## Installation
+## Installation Steps
 
+### For Users
+1. Download the extension from Chrome Web Store (Coming Soon)
+2. Click "Add to Chrome"
+3. Accept the permissions
+
+### For Developers
 1. Clone this repository:
 ```bash
-git clone https://github.com/thomsontochi/OpiaTranslate.git
+git clone https://github.com/thomsontochi/OpiaTranslate
