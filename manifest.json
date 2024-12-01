@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Page Translator",
+  "version": "1.0",
+  "description": "Translates text using Chrome Translation API",
+  "permissions": ["activeTab", "storage", "declarativeNetRequest"],
+  "trial_tokens": ["AoCPxNm7I5tIsrTSO/W1TmzFmf62yTWJEhPSgKgRZc8+fFpgc6CwZvDTIHJlP61hGoA3wOXQtdvKUO6GitQrDwMAAABveyJvcmlnaW4iOiJjaHJvbWUtZXh0ZW5zaW9uOi8vZWNpZ2JkaWlvYWtwb2NtcGFjbmtqaGxrYmRhb2JwaGkiLCJmZWF0dXJlIjoiVHJhbnNsYXRpb25BUEkiLCJleHBpcnkiOjE3NTMxNDI0MDB9"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
