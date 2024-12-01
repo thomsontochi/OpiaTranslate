@@ -28,7 +28,7 @@ OpiaTranslate is a Chrome extension developed for the Chrome AI DevJam 2024 that
 - 🔒 Privacy-focused (all translations happen locally)
 
 ### Demo
-[Link to Demo Video]
+[https://vimeo.com/1034926784?share=copy]
 
 ## Installation Steps
 
