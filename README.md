@@ -2,7 +2,7 @@
 # OpiaTranslate - Chrome AI Translation Extension
 
 <p align="center">
-  <img src="images/opiatranslate-logo.png" alt="OpiaTranslate Logo" width="200"/>
+  <img src="icons/icon128.png" alt="OpiaTranslate Logo" width="200"/>
 </p>
 
 ## About the Developer

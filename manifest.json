@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Page Translator",
+  "name": "OpiaTranslate",
   "version": "1.0",
   "description": "Translates text using Chrome Translation API , AI-Powered Translation Extension by Developia",
   "icons": {
