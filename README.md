@@ -5,6 +5,9 @@
   <img src="icons/icon128.png" alt="OpiaTranslate Logo" width="200"/>
 </p>
 
+<img width="383" alt="Screenshot 2024-12-10 at 12 00 49 PM" src="https://github.com/user-attachments/assets/1e40f868-dd56-4d51-aa1a-d729895573f0" />
+
+
 ## About the Developer
 
 I'm **Austin Opia (Developia)**, a Senior PHP/Laravel Developer with over 7 years of experience in building enterprise-grade web applications. My expertise includes:
